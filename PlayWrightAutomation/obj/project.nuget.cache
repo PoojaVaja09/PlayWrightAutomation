@@ -1,0 +1,24 @@
+{
+  "version": 2,
+  "dgSpecHash": "QiD8Ji7gg2FrinYd6t7+yYW1Vu5m213eynP2YpIwWeNKnnnvpG+veJS6/1zQMUlkl6Sk+LyX1ynyEsuneBZ4bg==",
+  "success": true,
+  "projectFilePath": "D:\\FromLptp\\Sollers\\PlayWrightAutomation\\PlayWrightAutomation\\PlayWrightAutomation.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\tusharv\\.nuget\\packages\\microsoft.codecoverage\\16.11.0-release-20210626-04\\microsoft.codecoverage.16.11.0-release-20210626-04.nupkg.sha512",
+    "C:\\Users\\tusharv\\.nuget\\packages\\microsoft.net.test.sdk\\16.11.0-release-20210626-04\\microsoft.net.test.sdk.16.11.0-release-20210626-04.nupkg.sha512",
+    "C:\\Users\\tusharv\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\tusharv\\.nuget\\packages\\microsoft.testplatform.objectmodel\\16.11.0-release-20210626-04\\microsoft.testplatform.objectmodel.16.11.0-release-20210626-04.nupkg.sha512",
+    "C:\\Users\\tusharv\\.nuget\\packages\\microsoft.testplatform.testhost\\16.11.0-release-20210626-04\\microsoft.testplatform.testhost.16.11.0-release-20210626-04.nupkg.sha512",
+    "C:\\Users\\tusharv\\.nuget\\packages\\netstandard.library\\2.0.0\\netstandard.library.2.0.0.nupkg.sha512",
+    "C:\\Users\\tusharv\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\tusharv\\.nuget\\packages\\nuget.frameworks\\5.0.0\\nuget.frameworks.5.0.0.nupkg.sha512",
+    "C:\\Users\\tusharv\\.nuget\\packages\\nunit\\3.13.2\\nunit.3.13.2.nupkg.sha512",
+    "C:\\Users\\tusharv\\.nuget\\packages\\nunit3testadapter\\4.0.0\\nunit3testadapter.4.0.0.nupkg.sha512",
+    "C:\\Users\\tusharv\\.nuget\\packages\\selenium.support\\4.0.0-beta4\\selenium.support.4.0.0-beta4.nupkg.sha512",
+    "C:\\Users\\tusharv\\.nuget\\packages\\selenium.webdriver\\4.0.0-beta4\\selenium.webdriver.4.0.0-beta4.nupkg.sha512",
+    "C:\\Users\\tusharv\\.nuget\\packages\\selenium.webdriver.chromedriver\\92.0.4515.10700\\selenium.webdriver.chromedriver.92.0.4515.10700.nupkg.sha512",
+    "C:\\Users\\tusharv\\.nuget\\packages\\selenium.webdriver.geckodriver\\0.29.1\\selenium.webdriver.geckodriver.0.29.1.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\system.reflection.metadata\\1.6.0\\system.reflection.metadata.1.6.0.nupkg.sha512"
+  ],
+  "logs": []
+}

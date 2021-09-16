@@ -1,0 +1,9 @@
+D:\Sollers\PlayWrightAutomation\PlayWriteClassLibrary\bin\Debug\netcoreapp3.1\PlayWriteClassLibrary.deps.json
+D:\Sollers\PlayWrightAutomation\PlayWriteClassLibrary\bin\Debug\netcoreapp3.1\PlayWriteClassLibrary.dll
+D:\Sollers\PlayWrightAutomation\PlayWriteClassLibrary\bin\Debug\netcoreapp3.1\PlayWriteClassLibrary.pdb
+D:\Sollers\PlayWrightAutomation\PlayWriteClassLibrary\obj\Debug\netcoreapp3.1\PlayWriteClassLibrary.csproj.AssemblyReference.cache
+D:\Sollers\PlayWrightAutomation\PlayWriteClassLibrary\obj\Debug\netcoreapp3.1\PlayWriteClassLibrary.AssemblyInfoInputs.cache
+D:\Sollers\PlayWrightAutomation\PlayWriteClassLibrary\obj\Debug\netcoreapp3.1\PlayWriteClassLibrary.AssemblyInfo.cs
+D:\Sollers\PlayWrightAutomation\PlayWriteClassLibrary\obj\Debug\netcoreapp3.1\PlayWriteClassLibrary.csproj.CoreCompileInputs.cache
+D:\Sollers\PlayWrightAutomation\PlayWriteClassLibrary\obj\Debug\netcoreapp3.1\PlayWriteClassLibrary.dll
+D:\Sollers\PlayWrightAutomation\PlayWriteClassLibrary\obj\Debug\netcoreapp3.1\PlayWriteClassLibrary.pdb

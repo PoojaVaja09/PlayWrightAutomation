@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "f0SYsaqSUf8TPVLKKmhkGAgw81kXkbUdm9v22kUYMWQxUrn7i4AYUuZ3VEbf6TOfzBC51M7hS9yKSoR6zQ4fag==",
+  "success": true,
+  "projectFilePath": "D:\\FromLptp\\Sollers\\PlayWrightAutomation\\PlayWriteClassLibrary\\PlayWriteClassLibrary.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\tusharv\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\tusharv\\.nuget\\packages\\selenium.support\\4.0.0-beta4\\selenium.support.4.0.0-beta4.nupkg.sha512",
+    "C:\\Users\\tusharv\\.nuget\\packages\\selenium.webdriver\\4.0.0-beta4\\selenium.webdriver.4.0.0-beta4.nupkg.sha512",
+    "C:\\Users\\tusharv\\.nuget\\packages\\selenium.webdriver.chromedriver\\92.0.4515.4300\\selenium.webdriver.chromedriver.92.0.4515.4300.nupkg.sha512",
+    "C:\\Users\\tusharv\\.nuget\\packages\\selenium.webdriver.geckodriver\\0.29.1\\selenium.webdriver.geckodriver.0.29.1.nupkg.sha512"
+  ],
+  "logs": []
+}
